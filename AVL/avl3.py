@@ -52,6 +52,7 @@ CBT = CompleteBT()
 print(CBT.maiYab(int(num_nodes), [int(n) for n in inp.split()]))
 
 '''
+7/1 2 3 4
       0                 0                 1      
    __/ \__           __/ \__           __/ \__   
   0       0   -->   1       3   -->   0       2  
